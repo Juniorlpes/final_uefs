@@ -1,6 +1,6 @@
-# final_uefs
+# Final UEFS
 
-Saber a média e saber se está na final
+Saber a média e caso precise de final, saber quanto precisa
 
 ## Getting Started
 
